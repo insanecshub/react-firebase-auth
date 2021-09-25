@@ -1,12 +1,14 @@
 # React Firebase Auth Starter Files
 
-This GitHub repo is a repo for the react firebase auth tutorial which you can find it on the Insane CS Hub YouTube channel 
-
+This GitHub repo is a repo for the react firebase auth tutorial which you can find it on the Insane CS Hub YouTube channel
 
 # Cloning
+
 Jus clone this repo for working on the tutorial
 
-``git clone https://github.com/insanecshub/react-firebase-auth-starter-file.git``
+```
+git clone https://github.com/insanecshub/react-firebase-auth-starter-file.git
+```
 
 ## Overview
 
