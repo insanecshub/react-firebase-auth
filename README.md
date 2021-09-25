@@ -11,7 +11,7 @@ The project contains ReactJS code, logics of routes, basic template of Auth Cont
 Jus clone this repo for working on the tutorial
 
 ```
-git clone https://github.com/insanecshub/react-firebase-auth-starter-file.git
+git clone https://github.com/insanecshub/react-firebase-auth.git
 ```
 
 ## Installing Dependencies 
