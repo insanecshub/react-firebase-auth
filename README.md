@@ -17,4 +17,7 @@ The project contains ReactJS code, logics of routes, basic template of Auth Cont
 ## Run the project
 
 To run the project all you need to do is run this command in the terminal
-`npm run start`
+
+```
+npm run start
+```
